@@ -3,9 +3,12 @@ jquery-bricks
 
 jQuery Bricks builds walls with your HTML elements.
 
-First developed to mimic google+ albums image layout, it theorically should work with any HTML elements.
+First developed to mimic google+ albums image layout, it works with any HTML elements.
 
-[Demo](http://jsfiddle.net/rqb98/)
+Demos :
+- [with images](http://jsfiddle.net/rqb98/)
+- [with divs](http://jsfiddle.net/3jTRG/)
+
 
 # Usage
 
@@ -38,15 +41,15 @@ First developed to mimic google+ albums image layout, it theorically should work
 
 ### CSS
 
-- Items must be inline
+- Items must be inline-blocks
 - Container must have a 0px font-size to avoid spaces between items
 
 ```css
 #container {
-    font-size:0px;
+    font-size: 0px;
 }
-div.item{
-  display:inline;
+#container div.item{
+  display: inline-block;
 }
 ```
 
