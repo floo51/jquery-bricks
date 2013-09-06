@@ -1,0 +1,36 @@
+{
+    "name": "bricks",
+    "title": "jQuery Bricks",
+    "description": "jQuery Bricks builds walls with your HTML elements",
+    "keywords": [
+        "grid",
+        "gallery",
+		"walls",
+		"bricks",
+        "album",
+        "masonry"
+    ],
+    "version": "0.1",
+    "author": {
+        "name": "Florian Ferbach"
+    },
+    "maintainers": [
+        {
+			"name": "Florian Ferbach"
+            "email": "florian.ferbach@gmail.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+    ],
+    "bugs": "https://github.com/floo51/jquery-bricks/issues",
+    "homepage": "https://github.com/floo51/jquery-bricks",
+    "docs": "https://github.com/floo51/jquery-bricks",
+    "download": "https://github.com/floo51/jquery-bricks/zipball/master",
+    "dependencies": {
+        "jquery": ">=1.7"
+    }
+}
