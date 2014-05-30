@@ -6,7 +6,7 @@ jQuery Bricks builds walls with your HTML elements.
 First developed to mimic google+ albums image layout, it works with any HTML elements.
 
 Demos :
-- [with images](http://jsfiddle.net/rqb98/)
+- [with images](http://jsfiddle.net/floo51/rqb98/68/)
 - [with divs](http://jsfiddle.net/3jTRG/)
 
 
